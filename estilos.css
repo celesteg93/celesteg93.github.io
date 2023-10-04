@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(231, 139, 78);
+    text-align: center;
+    <font face:"Arial">
+    <font size:6px>;
+}
+h1 {
+    background-color: rgb(212, 236, 117);
+    <font face:"arial">;
+    <font size:10px>;
+}
+h2{
+    background-color: bisque;
+    <font face:"Arial">;
+    <font size: 10px>;
+}
+div{
+    background-color: rgb(232, 242, 90);
+    <font face:"Arial">;
+    <font size: 6px>;;
+    <font color:"white">;
+}
